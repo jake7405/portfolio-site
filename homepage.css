@@ -1,0 +1,40 @@
+#homepage-name{
+            text-align: center;
+            color: red;
+            font-family: helvetica; "Times New Roman";
+        }
+
+#caption-hp{
+    text-align: center;
+    margin-top: auto;
+    font-size: 18px;
+    padding-top: 1%;
+    font-family: helvetica; "Times New Roman"; serif;
+}
+
+#grad {
+    background-image: linear-gradient(to bottom right, #ffa64d, #cce6ff);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.nav{
+    text-align: center;
+    font-family: helvetica; serif; sans-serif;
+    margin: auto;
+    
+}
+
+.nav-element{
+    padding-bottom: 5%;
+}
+
+.img{
+    display: block;
+    padding-left: 8%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
